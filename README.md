@@ -1,14 +1,1 @@
-# Math
-|  |
-| ------- |
-| [0633-sum-of-square-numbers](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0633-sum-of-square-numbers) |
-
-
-# Two Pointers
-|  |
-| ------- |
-| [0633-sum-of-square-numbers](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0633-sum-of-square-numbers) |
-# Binary Search
-|  |
-| ------- |
-| [0633-sum-of-square-numbers](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0633-sum-of-square-numbers) |
+                                              ![LeetCode_75](https://github.com/hemantgarg1452/LeetCode-75-days/assets/108003083/8e234c12-68c4-4152-bef0-0b0ba31baa6a)
