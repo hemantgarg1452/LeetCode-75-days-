@@ -4,6 +4,7 @@
 | [0853-most-profit-assigning-work](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0853-most-profit-assigning-work) |
 | [0011-container-with-most-water](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0011-container-with-most-water) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1370-count-number-of-nice-subarrays) |
+| [0643-maximum-average-subarray-i](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0643-maximum-average-subarray-i) |
 
 
 # Two Pointers
@@ -44,4 +45,5 @@
 # Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0643-maximum-average-subarray-i) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1370-count-number-of-nice-subarrays) |
