@@ -63,3 +63,11 @@
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0021-merge-two-sorted-lists) |
+# Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0021-merge-two-sorted-lists) |
