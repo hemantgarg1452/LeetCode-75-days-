@@ -5,6 +5,7 @@
 | [0011-container-with-most-water](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0011-container-with-most-water) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1370-count-number-of-nice-subarrays) |
 | [0643-maximum-average-subarray-i](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0643-maximum-average-subarray-i) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 
 
 # Two Pointers
@@ -47,5 +48,18 @@
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0643-maximum-average-subarray-i) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1370-count-number-of-nice-subarrays](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1370-count-number-of-nice-subarrays) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+# Bit Manipulation
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Queue
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Prefix Sum
+|  |
+| ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
