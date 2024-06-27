@@ -87,3 +87,7 @@
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1916-find-center-of-star-graph) |
