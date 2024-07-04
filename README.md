@@ -96,14 +96,17 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Topological Sort
@@ -113,12 +116,14 @@
 ## Union Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [1293-three-consecutive-odds](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Hash Table
@@ -151,4 +156,12 @@
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2299-merge-nodes-in-between-zeros) |
+## String
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
