@@ -124,6 +124,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
+| [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
 | [1293-three-consecutive-odds](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1803-average-waiting-time) |
@@ -177,5 +178,6 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
