@@ -127,6 +127,7 @@
 | [1293-three-consecutive-odds](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1803-average-waiting-time) |
+| [1833-find-the-highest-altitude](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -173,4 +174,8 @@
 | ------- |
 | [1642-water-bottles](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2645-pass-the-pillow) |
+## Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1833-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
