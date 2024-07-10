@@ -127,6 +127,7 @@
 | [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
 | [1293-three-consecutive-odds](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1720-crawler-log-folder](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1803-average-waiting-time) |
 | [1833-find-the-highest-altitude](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1833-find-the-highest-altitude) |
 ## Hash Table
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
+| [1720-crawler-log-folder](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1720-crawler-log-folder) |
 ## Shortest Path
 |  |
 | ------- |
@@ -180,4 +182,8 @@
 | ------- |
 | [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
 | [1833-find-the-highest-altitude](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1833-find-the-highest-altitude) |
+## Stack
+|  |
+| ------- |
+| [1720-crawler-log-folder](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1720-crawler-log-folder) |
 <!---LeetCode Topics End-->
