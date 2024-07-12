@@ -1,6 +1,10 @@
 class Solution {
 public:
     int minEatingSpeed(vector<int>& piles, int h) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(nullptr);
+        cout.tie(nullptr);
+        
         int l = 1;
         int hg = 0;
         int sz = piles.size();
