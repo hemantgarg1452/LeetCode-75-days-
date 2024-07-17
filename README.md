@@ -97,6 +97,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
+| [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 ## Breadth-First Search
 |  |
@@ -126,6 +127,7 @@
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
 | [0907-koko-eating-bananas](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0907-koko-eating-bananas) |
+| [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1720-crawler-log-folder) |
@@ -136,6 +138,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0726-number-of-atoms) |
+| [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
 ## Two Pointers
 |  |
 | ------- |
@@ -194,4 +197,12 @@
 | [0726-number-of-atoms](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1720-crawler-log-folder) |
+## Tree
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
+## Binary Tree
+|  |
+| ------- |
+| [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
 <!---LeetCode Topics End-->
