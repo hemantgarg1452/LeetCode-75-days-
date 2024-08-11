@@ -148,6 +148,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@
 ## Linked List
 |  |
 | ------- |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
