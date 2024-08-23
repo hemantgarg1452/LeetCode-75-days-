@@ -102,6 +102,7 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
+| [0904-leaf-similar-trees](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0904-leaf-similar-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -213,12 +214,14 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0904-leaf-similar-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0904-leaf-similar-trees](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0904-leaf-similar-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
