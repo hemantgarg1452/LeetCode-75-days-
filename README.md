@@ -132,6 +132,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0136-single-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
@@ -231,6 +232,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
