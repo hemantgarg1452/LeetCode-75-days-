@@ -134,6 +134,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0136-single-number) |
+| [0217-contains-duplicate](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
@@ -148,6 +149,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0726-number-of-atoms) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
@@ -165,6 +167,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
