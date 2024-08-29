@@ -233,11 +233,13 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0136-single-number) |
+| [0338-counting-bits](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0338-counting-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0338-counting-bits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
