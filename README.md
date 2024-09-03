@@ -190,6 +190,7 @@
 | [1642-water-bottles](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2645-pass-the-pillow) |
@@ -200,6 +201,7 @@
 | [0726-number-of-atoms](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1720-crawler-log-folder) |
+| [2076-sum-of-digits-of-string-after-convert](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2076-sum-of-digits-of-string-after-convert) |
 ## Shortest Path
 |  |
 | ------- |
