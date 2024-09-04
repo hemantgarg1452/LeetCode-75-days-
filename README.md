@@ -139,6 +139,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
+| [0906-walking-robot-simulation](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0907-koko-eating-bananas) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1293-three-consecutive-odds) |
@@ -155,6 +156,7 @@
 | [0217-contains-duplicate](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0726-number-of-atoms) |
+| [0906-walking-robot-simulation](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0906-walking-robot-simulation) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
 ## Two Pointers
 |  |
@@ -187,6 +189,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1803-average-waiting-time) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
