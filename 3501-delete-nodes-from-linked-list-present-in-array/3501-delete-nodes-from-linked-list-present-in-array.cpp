@@ -5,14 +5,14 @@ public:
 
         ListNode* curr = head;
         while(curr){
-            if(st.count(curr->val)) curr = curr->next;
+            if(st.find(curr->val)!=st.end()) curr = curr->next;
 
             else break;
         }
 
         ListNode *Head = curr;
         while(curr && curr->next){
-            if(st.count(curr->next->val)) curr->next = curr->next->next;
+            if(st.find(curr->next->val)!=st.end()) curr->next = curr->next->next;
 
             else curr = curr->next;
         }
