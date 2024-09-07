@@ -105,6 +105,7 @@
 | [0904-leaf-similar-trees](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0904-leaf-similar-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -112,6 +113,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1484-linked-list-in-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Graph
 |  |
@@ -187,6 +189,7 @@
 ## Linked List
 |  |
 | ------- |
+| [1484-linked-list-in-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1484-linked-list-in-binary-tree) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2299-merge-nodes-in-between-zeros) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -238,6 +241,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0904-leaf-similar-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -245,6 +249,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0904-leaf-similar-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
+| [1484-linked-list-in-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Bit Manipulation
 |  |
