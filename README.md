@@ -139,6 +139,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
@@ -162,6 +163,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0726-number-of-atoms) |
 | [0906-walking-robot-simulation](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0906-walking-robot-simulation) |
@@ -185,6 +187,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0726-number-of-atoms](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -283,6 +286,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -291,5 +295,18 @@
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0347-top-k-frequent-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1786-count-the-number-of-consistent-strings) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
