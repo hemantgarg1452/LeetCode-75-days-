@@ -2,23 +2,27 @@ class Solution {
 public:
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
+        vector<int> res(n, 1); 
 
-        vector<int>left(n, 1);
-        vector<int>right(n, 1);
-
-        for(int i=1; i<n; i++){
-            left[i] = left[i-1] * nums[i-1];
-        }    
-
-        for(int i=n-2; i>=0; i--){
-            right[i] = right[i+1] * nums[i+1];
+        int leftProduct = 1;
+        for(int i = 0; i < n; ++i) {
+            res[i] = leftProduct;
+            leftProduct *= nums[i]; 
         }
 
-        vector<int>ans(n,1);
-        for(int i=0; i<n; ++i){
-            ans[i] = left[i] * right[i];
+        int rightProduct = 1;
+        for(int i = n - 1; i >= 0; --i) {
+            res[i] *= rightProduct;
+            rightProduct *= nums[i]; 
         }
 
-        return ans;
+        return res;
     }
 };
+
+static const int KDS = []() {
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(nullptr);
+    std::cout.tie(nullptr);
+    return 0;
+}();
