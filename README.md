@@ -128,6 +128,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 ## Array
@@ -137,6 +138,7 @@
 | [0049-group-anagrams](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0238-product-of-array-except-self) |
@@ -164,6 +166,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
