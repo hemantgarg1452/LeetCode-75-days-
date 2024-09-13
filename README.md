@@ -147,6 +147,7 @@
 | [0907-koko-eating-bananas](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0907-koko-eating-bananas) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1293-three-consecutive-odds) |
+| [1435-xor-queries-of-a-subarray](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1435-xor-queries-of-a-subarray) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1720-crawler-log-folder) |
@@ -240,6 +241,7 @@
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
+| [1435-xor-queries-of-a-subarray](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1435-xor-queries-of-a-subarray) |
 | [1833-find-the-highest-altitude](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1833-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Stack
@@ -269,6 +271,7 @@
 | ------- |
 | [0136-single-number](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0338-counting-bits) |
+| [1435-xor-queries-of-a-subarray](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
