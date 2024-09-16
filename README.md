@@ -145,6 +145,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
+| [0539-minimum-time-difference](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0539-minimum-time-difference) |
 | [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
 | [0906-walking-robot-simulation](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0907-koko-eating-bananas) |
@@ -195,6 +196,7 @@
 | [0217-contains-duplicate](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0539-minimum-time-difference](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0726-number-of-atoms) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Greedy
@@ -227,6 +229,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0049-group-anagrams) |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
+| [0539-minimum-time-difference](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0726-number-of-atoms) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -240,6 +243,7 @@
 ## Math
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0539-minimum-time-difference) |
 | [1642-water-bottles](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2645-pass-the-pillow) |
