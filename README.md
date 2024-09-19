@@ -232,6 +232,7 @@
 | ------- |
 | [0049-group-anagrams](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0241-different-ways-to-add-parentheses) |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [0539-minimum-time-difference](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0539-minimum-time-difference) |
 | [0726-number-of-atoms](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0726-number-of-atoms) |
@@ -247,6 +248,7 @@
 ## Math
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0241-different-ways-to-add-parentheses) |
 | [0539-minimum-time-difference](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0539-minimum-time-difference) |
 | [1642-water-bottles](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2155-find-missing-observations) |
@@ -296,6 +298,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0241-different-ways-to-add-parentheses](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0241-different-ways-to-add-parentheses) |
 | [0338-counting-bits](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0338-counting-bits) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
@@ -329,4 +332,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0241-different-ways-to-add-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
