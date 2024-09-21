@@ -101,6 +101,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0386-lexicographical-numbers](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0386-lexicographical-numbers) |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [0904-leaf-similar-trees](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0904-leaf-similar-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
@@ -353,4 +354,8 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
