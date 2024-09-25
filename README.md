@@ -164,6 +164,7 @@
 | [2132-convert-1d-array-into-2d-array](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2411-spiral-matrix-iv) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
@@ -243,6 +244,7 @@
 | [1720-crawler-log-folder](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1720-crawler-log-folder) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Shortest Path
 |  |
 | ------- |
@@ -322,6 +324,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0347-top-k-frequent-elements) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -358,4 +361,5 @@
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0386-lexicographical-numbers) |
+| [2494-sum-of-prefix-scores-of-strings](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2494-sum-of-prefix-scores-of-strings) |
 <!---LeetCode Topics End-->
