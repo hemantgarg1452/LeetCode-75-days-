@@ -149,6 +149,7 @@
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [0539-minimum-time-difference](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0539-minimum-time-difference) |
 | [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
+| [0731-my-calendar-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0731-my-calendar-ii) |
 | [0906-walking-robot-simulation](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0907-koko-eating-bananas) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
@@ -190,6 +191,7 @@
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0731-my-calendar-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0731-my-calendar-ii) |
 | [0907-koko-eating-bananas](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0907-koko-eating-bananas) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
@@ -262,6 +264,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
+| [0731-my-calendar-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1833-find-the-highest-altitude](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1833-find-the-highest-altitude) |
@@ -362,4 +365,16 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0386-lexicographical-numbers) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Design
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0731-my-calendar-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
