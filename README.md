@@ -150,6 +150,7 @@
 | [0539-minimum-time-difference](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0539-minimum-time-difference) |
 | [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0792-binary-search) |
 | [0906-walking-robot-simulation](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0906-walking-robot-simulation) |
 | [0907-koko-eating-bananas](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0907-koko-eating-bananas) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0731-my-calendar-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0731-my-calendar-ii) |
+| [0792-binary-search](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0907-koko-eating-bananas) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Sorting
