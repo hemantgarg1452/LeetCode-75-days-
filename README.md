@@ -138,6 +138,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0136-single-number) |
@@ -193,6 +194,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0074-search-a-2d-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0731-my-calendar-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0792-binary-search) |
@@ -326,6 +328,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0074-search-a-2d-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/2411-spiral-matrix-iv) |
 ## Counting
