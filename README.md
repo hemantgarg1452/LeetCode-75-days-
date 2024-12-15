@@ -149,6 +149,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0399-evaluate-division](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0399-evaluate-division) |
 | [0539-minimum-time-difference](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/hemantgarg1452/LeetCode-Interview-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0731-my-calendar-ii) |
 | [0792-binary-search](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0792-binary-search) |
@@ -179,6 +180,7 @@
 | [0347-top-k-frequent-elements](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0432-all-oone-data-structure) |
+| [0560-subarray-sum-equals-k](https://github.com/hemantgarg1452/LeetCode-Interview-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0726-number-of-atoms](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0726-number-of-atoms) |
 | [0906-walking-robot-simulation](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0906-walking-robot-simulation) |
 | [1207-delete-nodes-and-return-forest](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1207-delete-nodes-and-return-forest) |
@@ -270,6 +272,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/hemantgarg1452/LeetCode-Interview-Questions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/hemantgarg1452/LeetCode-75-days/tree/master/1435-xor-queries-of-a-subarray) |
